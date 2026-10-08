@@ -1,7 +1,7 @@
 
 
-   Olá, eu me chamo Arthur Alves.
+°   Olá, eu me chamo Arthur Alves.
 
--  Estou estudando: C#, JavaScript e HTML
+-  Trabalho com programação C#, JavaScript e HTML
 -  CONTATO: @arthuzindasilva1@gmail.com
--  Estou procurando colaboradores!
+-  Estou a procura de colaboradores!
